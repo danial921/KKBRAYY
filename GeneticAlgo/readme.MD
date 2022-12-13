@@ -1,0 +1,1 @@
+yang fix pake [ini]('./tutorial-of-pygad.ipynb')
